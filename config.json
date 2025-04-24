@@ -1,0 +1,13 @@
+{
+    "user_token": "",
+    "captcha_info": {
+      "supported_services": ["capmonster", "2cap"],
+      "service": "capmonster"
+    },
+    "capmonster": {
+      "api_key": "718f1dc4bc8a75200f2135dde89a387f"
+    },
+    "2cap": {
+      "api_key": ""
+    }
+  }  
